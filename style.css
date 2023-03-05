@@ -47,7 +47,7 @@ section {
   --Patua: "Patua One", cursive;
   --Lobster: "lobster", cursive;
   --light-black: #2e2c2caf;
-  --bggradient: radial-gradient(circle, rgb(189, 177, 253) 15%, rgb(161, 163, 240) 65%, rgb(120, 115, 196) 95%);
+  --bggradient: radial-gradient(circle, rgb(189, 177, 253) 15%, rgb(150, 153, 250) 65%, rgb(120, 115, 196) 95%);
   --light-gray: rgba(255, 255, 255, 0.877);
 }
 
